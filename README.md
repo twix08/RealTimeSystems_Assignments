@@ -1,3 +1,3 @@
 # RealTimeSystems_Assignments
 
-README for our assignments
+Assignment 1 in Real Time Systems
